@@ -1,0 +1,416 @@
+{
+  "relics": [
+    {
+      "relic_name": "Power Miner",
+      "tier": 1,
+      "tier_title": "Tier 1",
+      "effects": [
+        {
+          "skill": "Mining",
+          "effect": "On failing to mine a rock, you will have a separate 50% chance to succeed."
+        },
+        {
+          "skill": "Mining",
+          "effect": "Items gathered from Mining are automatically sent to your Bank."
+        },
+        {
+          "skill": "Mining",
+          "effect": "The rock will not deplete until you have mined 4 ores. This stacks with the effects of Mining gloves."
+        },
+        {
+          "skill": "Smithing",
+          "effect": "Collected ores are automatically smelted and grant Smithing XP"
+        },
+        {
+          "skill": "Crafting",
+          "effect": "Gems gathered from mining are automatically cut and grant Crafting XP"
+        }
+      ]
+    },
+    {
+      "relic_name": "Lumberjank",
+      "tier": 1,
+      "tier_title": "Tier 1",
+      "effects": [
+        {
+          "skill": "Woodcutting",
+          "effect": "On failing to chop a tree, you will have a separate 50% chance to succeed."
+        },
+        {
+          "skill": "Woodcutting",
+          "effect": "Items gathered from Woodcutting are automatically sent to your Bank."
+        },
+        {
+          "skill": "Firemaking",
+          "effect": "Automatically burning logs for Firemaking XP "
+        },
+        {
+          "skill": "Fletching",
+          "effect": "Automatically Fletching logs into arrowshafts for Fletching XP"
+        }
+      ]
+    },
+    {
+      "relic_name": "Animal Wrangler",
+      "tier": 1,
+      "tier_title": "Tier 1",
+      "effects": [
+        {
+          "skill": "Fishing",
+          "effect": "On failing to fish a spot, you will have a separate 50% chance to succeed."
+        },
+        {
+          "skill": "Fishing",
+          "effect": "Items gathered from Fishing are automatically sent to your Bank"
+        },
+        {
+          "skill": "Fishing",
+          "effect": "Fish caught have a 50% chance to be automatically cooked, granting Cooking experience regardless of level requirements. "
+        },
+        {
+          "skill": "Fishing",
+          "effect": "Attempt to catch fish 1 tick faster."
+        },
+        {
+          "skill": "Hunter",
+          "effect": "Hunter traps will never fail."
+        },
+        {
+          "skill": "Hunter",
+          "effect": "Box traps catch chinchompas faster and are doubled when caught, also giving double XP."
+        },
+        {
+          "skill": "Hunter",
+          "effect": "Impling jars no longer break upon opening them."
+        }
+      ]
+    },
+    {
+      "relic_name": "Fairy's Flight",
+      "tier": 3,
+      "tier_title": "Tier 3",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Players are given a fairy mushroom which allows teleporting to any fairy ring, spirit tree, or tool leprechaun."
+        },
+        {
+          "skill": "General",
+          "effect": "Unlocking this relic will autocomplete the Tree Gnome Village quest."
+        },
+        {
+          "skill": "General",
+          "effect": "Can only teleport to locations within regions the player has unlocked."
+        }
+      ]
+    },
+    {
+      "relic_name": "Bank Heist",
+      "tier": 3,
+      "tier_title": "Tier 3",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Players are given a banker's briefcase allowing teleport to any deposit box, bank, or bank chest"
+        }
+      ]
+    },
+    {
+      "relic_name": "Clue Compass",
+      "tier": 3,
+      "tier_title": "Tier 3",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Players are given a clue compass allowing teleport to any STASH unit, and to Falo the Bard"
+        },
+        {
+          "skill": "General",
+          "effect": "The compass can also teleport the player to their current clue step if they have one. It does not work on clue steps that require killing a certain NPC."
+        }
+      ]
+    },
+    {
+      "relic_name": "Total Recall",
+      "tier": 6,
+      "tier_title": "Tier 6",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Players can store any single coordinate, alongside their hitpoints, prayer, and special attack energy"
+        },
+        {
+          "skill": "General",
+          "effect": "Players may teleport back to the coordinates at any later time, restoring their stats to the saved ones"
+        }
+      ]
+    },
+    {
+      "relic_name": "Banker's Note",
+      "tier": 6,
+      "tier_title": "Tier 6",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Players are given a banker's note which allows players to use note-able items on it to turn them into banknotes or unnote them. Items must be used on the banker's note."
+        }
+      ]
+    },
+    {
+      "relic_name": "Grimoire",
+      "tier": 5,
+      "tier_title": "Tier 5",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Arcane Grimoire - Freely swap between spellbooks"
+        },
+        {
+          "skill": "Magic",
+          "effect": "Arcane Grimoire - Acts as book of the dead"
+        },
+        {
+          "skill": "Magic",
+          "effect": "Access to all Prayers and spells, regardless of area, quest, or diary requirements"
+        }
+      ]
+    },
+    {
+      "relic_name": "Overgrown",
+      "tier": 5,
+      "tier_title": "Tier 5",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Seed vault access from anywhere in the world"
+        },
+        {
+          "skill": "Farming",
+          "effect": "Crops never die"
+        },
+        {
+          "skill": "Farming",
+          "effect": "When planting a seed, it has a 75% chance to not be consumed."
+        },
+        {
+          "skill": "Farming",
+          "effect": "When a seed fully grows, if your Seed Vault has another seed of the same type it will harvest the patch for you, then replant the seed."
+        },
+        {
+          "skill": "Farming",
+          "effect": "Automatically replanted seeds have Ultracompost added, whether or not you have any available."
+        }
+      ]
+    },
+    {
+      "relic_name": "Tier 5 - Unknown",
+      "tier": 5,
+      "tier_title": "Tier 5",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Unknown"
+        }
+      ]
+    },
+    {
+      "relic_name": "Golden God",
+      "tier": 4,
+      "tier_title": "Tier 4",
+      "effects": [
+        {
+          "skill": "Magic",
+          "effect": "High and Low Alchemy spells have no rune cost or level requirements"
+        },
+        {
+          "skill": "Magic",
+          "effect": "Alch'ed Items give 15% more gold and have a 65% chance to not be consumed"
+        },
+        {
+          "skill": "Magic",
+          "effect": "When Alchemy spells are cast on a stack of items, the spells will automatically be recast over time, until the stack is depleted or moved"
+        },
+        {
+          "skill": "Prayer",
+          "effect": "20,000 gold can be offered at Prayer altars in exchange for Prayer XP equivalent to using a dragon bone. This respects altar XP modifiers"
+        },
+        {
+          "skill": "General",
+          "effect": "All items purchased from some select shops can be noted, provided the items can be noted at all."
+        }
+      ]
+    },
+    {
+      "relic_name": "Reloaded",
+      "tier": 4,
+      "tier_title": "Tier 4",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Pick a second skill below this tier"
+        }
+      ]
+    },
+    {
+      "relic_name": "Tier 4 - Unknown",
+      "tier": 4,
+      "tier_title": "Tier 4",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Unknown"
+        }
+      ]
+    },
+    {
+      "relic_name": "Friendly Forager",
+      "tier": 2,
+      "tier_title": "Tier 2",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Grants Forager's Pouch - effects work both in inventory and equipped - https://oldschool.runescape.wiki/w/Friendly_Forager"
+        },
+        {
+          "skill": "Herblore",
+          "effect": "When you gather resources from Woodcutting, Fishing, Mining and Hunting, the forager's pouch will find and store a random grimy herb."
+        },
+        {
+          "skill": "Herblore",
+          "effect": "Potion Crafting - Secondary ingredients have a 90% chance to not be consumed. (This stacks additively with other sources)"
+        },
+        {
+          "skill": "Herblore",
+          "effect": "Potion Crafting - Created potions contain 4 doses instead of 3"
+        }
+      ]
+    },
+    {
+      "relic_name": "Corner Cutter",
+      "tier": 2,
+      "tier_title": "Tier 2",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Sage's Grieves - Whilst equipped, will grant Agility experience based on your Agility level while you run."
+        },
+        {
+          "skill": "Agility",
+          "effect": "Players will always succeed in performing actions for Agility."
+        },
+        {
+          "skill": "Agility",
+          "effect": "Completing an Agility course grants two completion count and 25% bonus experience."
+        },
+        {
+          "skill": "Agility",
+          "effect": "Marks of grace will also spawn with 10,000 coins."
+        },
+        {
+          "skill": "Agility",
+          "effect": "Double the quantity of pyramid tops, hallowed marks, Brimhaven vouchers, and crystal shards "
+        }
+      ]
+    },
+    {
+      "relic_name": "Dodgy Deals",
+      "tier": 2,
+      "tier_title": "Tier 2",
+      "effects": [
+        {
+          "skill": "Thieving",
+          "effect": "Pickpocketing an NPC will also pickpocket all NPCs of the same type in a 11x11 square, granting extra loot for each NPC pickpocketed."
+        },
+        {
+          "skill": "Thieving",
+          "effect": "100% success rate on all Thieving checks."
+        },
+        {
+          "skill": "Thieving",
+          "effect": "Automatically re-pickpocket an NPC or stall until you can no longer do so."
+        },
+        {
+          "skill": "Thieving",
+          "effect": "Items obtained from pickpocketing are noted."
+        },
+        {
+          "skill": "Thieving",
+          "effect": "Maximum coin pouch count increased by 3x."
+        },
+        {
+          "skill": "Thieving",
+          "effect": "Stalls never deplete."
+        }
+      ]
+    },
+    {
+      "relic_name": "Last Stand",
+      "tier": 7,
+      "tier_title": "Tier 7",
+      "effects": [
+        {
+          "skill": "Combat",
+          "effect": "If damage would reduce you to 0 hp, you are reduced to 1 hp instead."
+        },
+        {
+          "skill": "Combat",
+          "effect": "Your combat stats are instantly boosted to 255 but begin draining rapidly (16 every tick) back down to your base level +15."
+        },
+        {
+          "skill": "Combat",
+          "effect": "For the next 16 ticks after this ability is activated, you cannot be reduced to 0 hp."
+        },
+        {
+          "skill": "Combat",
+          "effect": "When the effect ends, all incoming damage is nullified and the player is healed based on the damage they dealt over the last 16 ticks."
+        },
+        {
+          "skill": "Combat",
+          "effect": "Last Stand - 3 minute cooldown or reset on death"
+        }
+      ]
+    },
+    {
+      "relic_name": "Guardian",
+      "tier": 7,
+      "tier_title": "Tier 7",
+      "effects": [
+        {
+          "skill": "Combat",
+          "effect": "Guardian Horn - This item will allow you to summon a powerful Guardian Thrall, lasting 30 minutes."
+        },
+        {
+          "skill": "Combat",
+          "effect": "Guardian Thrall - Will attack your target with whatever style it is weak to."
+        },
+        {
+          "skill": "Combat",
+          "effect": "Guardian Thrall - When you are in multi-combat it will cast an AoE attack if the target is weak to range or magic."
+        },
+        {
+          "skill": "Combat",
+          "effect": "Guardian Stats/Summon Rules - https://oldschool.runescape.wiki/w/Guardian"
+        }
+      ]
+    },
+    {
+      "relic_name": "Specialist",
+      "tier": 7,
+      "tier_title": "Tier 7",
+      "effects": [
+        {
+          "skill": "Combat",
+          "effect": "All special attacks cost 20% and have +100% accuracy."
+        },
+        {
+          "skill": "Combat",
+          "effect": "For each failed accuracy roll with a special attack, gain 10% Special Attack Energy."
+        },
+        {
+          "skill": "Combat",
+          "effect": "Whenever you kill an NPC, restore 15% Special Attack Energy."
+        }
+      ]
+    }
+  ]
+}

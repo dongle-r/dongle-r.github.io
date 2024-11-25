@@ -1,0 +1,145 @@
+{
+  "name": "Kourend",
+  "locations": [
+    "Northern Tundras",
+    "Mount Karuulm",
+    "Arceuus",
+    "Lovakengj",
+    "Port Piscarilius",
+    "Kebos Lowlands",
+    "Kingstown",
+    "Shayzien",
+    "Mount Quidamortem",
+    "Hosidius",
+    "Kourend Woodland",
+    "The Stranglewood"
+  ],
+  "bosses": [
+    "Wintertodt",
+    "Alchemical Hydra",
+    "Sarachnis",
+    "Skotizo",
+    "Hespori",
+    "Mimic",
+    "Chambers of Xeric",
+    "Vardorvis"
+  ],
+  "slayer_tasks": ["Red Dragons", "Lizardmen", "Wyrms", "Drakes", "Hydras"],
+  "combat_content": [
+    "Chambers of Xeric",
+    "Rigour & Augury Prayers",
+    "Arceuus Spellbook - Thralls",
+    "Lunar Slayer Master",
+    "Brimstone Chest",
+    "Mount Karuulm Dungeon",
+    "Catacombs of Kourend",
+    "Lizardman Shaman",
+    "Forthos Dungeon",
+    "Chasm of Fire",
+    "Giants' Den",
+    "Dragon Hunter Lance",
+    "Ferocious Gloves",
+    "Arclight",
+    "Kodai Wand",
+    "Ultor ring"
+  ],
+  "skilling_content": [
+    {
+      "name": "Allotment Patch",
+      "count": 4
+    },
+    {
+      "name": "Flower Patch",
+      "count": 2
+    },
+    {
+      "name": "Herb Patch",
+      "count": 2
+    },
+    {
+      "name": "Bush Patch",
+      "count": 1
+    },
+    {
+      "name": "Tree Patch",
+      "count": 1
+    },
+    {
+      "name": "Fruit Tree Patch",
+      "count": 1
+    },
+    {
+      "name": "Cactus Patch",
+      "count": 1
+    },
+    {
+      "name": "Spirit Tree Patch",
+      "count": 2
+    },
+    {
+      "name": "Redwood Patch",
+      "count": 1
+    },
+    {
+      "name": "Grape Patch",
+      "count": 12
+    },
+    {
+      "name": "Celastrus Patch",
+      "count": 1
+    },
+    {
+      "name": "Anima Patch",
+      "count": 1
+    },
+    {
+      "name": "Farming Guild",
+      "count": 0
+    },
+    {
+      "name": "Tithe Farm",
+      "count": 0
+    },
+    {
+      "name": "Woodcutting Guild",
+      "count": 0
+    },
+    {
+      "name": "Redwood Trees",
+      "count": 0
+    },
+    {
+      "name": "Arceuus Library",
+      "count": 0
+    },
+    {
+      "name": "Hosidius House Portal",
+      "count": 0
+    },
+    {
+      "name": "Kourend Woodland Hunter Area",
+      "count": 0
+    },
+    {
+      "name": "Lake Molch Aerial Fishing",
+      "count": 0
+    },
+    {
+      "name": "Anglerfish",
+      "count": 0
+    },
+    {
+      "name": "Soul and Blood Altar",
+      "count": 0
+    },
+    {
+      "name": "Blast Mine",
+      "count": 0
+    }
+  ],
+  "echo_boss": {
+    "name": "Hespori",
+    "drop": "Nature's reprisal",
+    "boss_level": "Elite"
+  }
+}
