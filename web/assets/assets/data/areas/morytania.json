@@ -1,0 +1,112 @@
+{
+  "name": "Morytania",
+  "locations": [
+    "Slayer Tower",
+    "Dragontooth Island",
+    "Canifis",
+    "Port Phasmatys",
+    "Mort'ton",
+    "Slepe",
+    "Mos Le' Harmless",
+    "Burgh de Rott",
+    "Ver Sinhaza",
+    "Darkmeyer",
+    "Meiyerditch",
+    "Harmony"
+  ],
+  "bosses": [
+    "Barrows Brothers",
+    "Grotesque Guardians",
+    "Nightmare of Ashihama",
+    "Theatre of Blood"
+  ],
+  "slayer_tasks": [
+    "Banshees",
+    "Bloodveld",
+    "Cave Horrors",
+    "Gargoyles",
+    "Nechryaels",
+    "Vampyres"
+  ],
+  "combat_content": [
+    "Fenkenstrain's Experiments",
+    "Haunted Mines - Salve Amulet",
+    "Lair of Tarn Razorlor",
+    "Vyrewatch Sentinels",
+    "Shades of Mort'ton",
+    "Barrows Crypts",
+    "Slayer Tower",
+    "Phosani's Nightmare",
+    "Theatre of Blood",
+    "Braindeath Island - Fever Spiders",
+    "Mos Le'Harmless Cave",
+    "Jungle & Cave Horrors",
+    "Black Masks & Slayer Helmets",
+    "Temple Trekking",
+    "Guardian Boots",
+    "Avernic Defender"
+  ],
+  "skilling_content": [
+    {
+      "name": "Allotment Patch",
+      "count": 3
+    },
+    {
+      "name": "Flower Patch",
+      "count": 1
+    },
+    {
+      "name": "Herb Patch",
+      "count": 2
+    },
+    {
+      "name": "Mushroom Patch",
+      "count": 1
+    },
+    {
+      "name": "Canifis Rooftop Course",
+      "count": 0
+    },
+    {
+      "name": "Daeyalt Essence Mining",
+      "count": 0
+    },
+    {
+      "name": "Ectofuntus Prayer Training",
+      "count": 0
+    },
+    {
+      "name": "Swamp Lizard Hunting",
+      "count": 0
+    },
+    {
+      "name": "The True Blood Altar",
+      "count": 0
+    },
+    {
+      "name": "Hallowed Sepulchre",
+      "count": 0
+    },
+    {
+      "name": "Vyre Pickpocketing",
+      "count": 0
+    },
+    {
+      "name": "Werewolf Agility Course",
+      "count": 0
+    },
+    {
+      "name": "Werewolf Skullball",
+      "count": 0
+    },
+    {
+      "name": "Trouble Brewing",
+      "count": 0
+    }
+  ],
+  "echo_boss": {
+    "name": "Grotesque Guardians",
+    "drop": "Gloves of the damned",
+    "boss_level": "Elite"
+  }
+}

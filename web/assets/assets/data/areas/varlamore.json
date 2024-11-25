@@ -1,0 +1,19 @@
+{
+	"name": "Varlamore",
+	"locations": [],
+	"bosses": [],
+	"slayer_tasks": [],
+	"combat_content": ["Colosseum", "Moons of Peril", "Hueycoatl", "Amoxliatl", "Vard", "Mixed Hide", "Sulphur Blades/Glacial Temotli", "Sunlight Crossbow", "Goading Potion", "Prayer Regeneration"],
+	"skilling_content": [
+	  {
+		"name": "",
+		"count": ""
+	  }
+	],
+	"echo_boss": {
+	  "name": "Sol Heredit",
+	  "drop": "Sunlight spear and Sunlit bracers",
+	  "boss_level": "Grandmaster"
+	}
+  }
+  

@@ -1,0 +1,100 @@
+{
+  "name": "Misthalin",
+  "locations": [
+    "Edgeville",
+    "Varrock",
+    "Barbarian Village",
+    "Draynor Village",
+    "Lumbridge",
+    "Zanaris & Fairy Rings",
+    "Fossil Island",
+    "Isle of Souls"
+  ],
+  "bosses": ["Deranged Archeologist", "Bryophyta", "Obor", "Abyssal Sire"],
+  "slayer_tasks": [
+    "Abyssal Demons",
+    "Fossil Island Wyverns",
+    "Hill Giants",
+    "Moss Giants",
+    "Spiders",
+    "Cows",
+    "Goblins",
+    "Minotaurs",
+    "Zombies"
+  ],
+  "combat_content": [
+    "Chaeldar Slayer Master",
+    "Vannaka Slayer Master",
+    "Abyssal Nexus",
+    "Edgeville Dungeon",
+    "Varrock Sewers",
+    "Lumbridge Swamp Caves",
+    "Stronghold of Security",
+    "Soul Wars",
+    "Isle of Souls Dungeon",
+    "Fossil Island Wyverns",
+    "Ammonite Crabs"
+  ],
+  "skilling_content": [
+    {
+      "name": "Hardwood Tree Patches",
+      "count": 3
+    },
+    {
+      "name": "Giant Seaweed Patches",
+      "count": 2
+    },
+    {
+      "name": "Tree Patches",
+      "count": 2
+    },
+    {
+      "name": "Hops Patch",
+      "count": 1
+    },
+    {
+      "name": "Bush Patch",
+      "count": 1
+    },
+    {
+      "name": "Belladonna Patch",
+      "count": 1
+    },
+    {
+      "name": "Draynor Rooftop Course",
+      "count": 0
+    },
+    {
+      "name": "Varrock Rooftop Course",
+      "count": 0
+    },
+    {
+      "name": "Sulliusceps Woodcutting",
+      "count": 0
+    },
+    {
+      "name": "Bird Houses",
+      "count": 0
+    },
+    {
+      "name": "Greg Chinchompas",
+      "count": 0
+    },
+    {
+      "name": "Pure/Implings",
+      "count": 0
+    },
+    {
+      "name": "Water Earth & Cosmic Altars",
+      "count": 0
+    },
+    {
+      "name": "Volcanic Mine",
+      "count": 0
+    },
+    {
+      "name": "Champions Guild",
+      "count": 0
+    }
+  ]
+}

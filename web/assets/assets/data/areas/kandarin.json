@@ -1,0 +1,135 @@
+{
+  "name": "Kandarin",
+  "locations": [
+    "Piscatoris",
+    "Barbarian Outpost",
+    "Seers' Village",
+    "Camelot",
+    "Catherby",
+    "Tree Gnome Stronghold",
+    "Ardougne",
+    "Tree Gnome Village",
+    "Port Khazard",
+    "Yanille",
+    "Gu'Tanoth",
+    "Myths' Guild",
+    "Corsair Cove",
+    "Ape Atoll"
+  ],
+  "bosses": ["Kraken", "Thermonuclear Smoke Devil"],
+  "slayer_tasks": [
+    "Black Demons",
+    "Cave Kraken",
+    "Chaos Druids",
+    "Mithril Dragons",
+    "Ogres",
+    "Smoke Devils"
+  ],
+  "combat_content": [
+    "Steve Slayer Master",
+    "Stronghold Slayer Cave",
+    "Waterfall Dungeon",
+    "Ancient Cavern",
+    "Ape Atoll Monkeys",
+    "Demonic Gorillas",
+    "Kraken Cove",
+    "Smoke Devil Dungeon",
+    "Poison Waste Dungeon",
+    "Barbarian Assault",
+    "Castle Wars",
+    "Chompy Bird Hunting",
+    "Piety Prayer",
+    "Cannons"
+  ],
+  "skilling_content": [
+    {
+      "name": "Allotment Patch",
+      "count": 4
+    },
+    {
+      "name": "Herb Patch",
+      "count": 2
+    },
+    {
+      "name": "Flower Patch",
+      "count": 2
+    },
+    {
+      "name": "Hops Patch",
+      "count": 2
+    },
+    {
+      "name": "Bush Patch",
+      "count": 1
+    },
+    {
+      "name": "Tree Patch",
+      "count": 1
+    },
+    {
+      "name": "Fruit Tree Patch",
+      "count": 3
+    },
+    {
+      "name": "Ardougne Market Thieving",
+      "count": 0
+    },
+    {
+      "name": "Ardougne Rooftop Course",
+      "count": 0
+    },
+    {
+      "name": "Seers' Village Rooftop Course",
+      "count": 0
+    },
+    {
+      "name": "Barbarian Fishing",
+      "count": 0
+    },
+    {
+      "name": "Monkfish Fishing",
+      "count": 0
+    },
+    {
+      "name": "Fishing Trawler",
+      "count": 0
+    },
+    {
+      "name": "Fishing Guild",
+      "count": 0
+    },
+    {
+      "name": "Legends' Guild",
+      "count": 0
+    },
+    {
+      "name": "Piscatoris Hunter Area",
+      "count": 0
+    },
+    {
+      "name": "Feldip Hills Hunter Area",
+      "count": 0
+    },
+    {
+      "name": "Red Chinchompas",
+      "count": 0
+    },
+    {
+      "name": "Yanille House Portal",
+      "count": 0
+    },
+    {
+      "name": "Ourania Altar",
+      "count": 0
+    },
+    {
+      "name": "Myths' Guild & Wrath Altar",
+      "count": 0
+    }
+  ],
+  "echo_boss": {
+    "name": "Thermonuclear Smoke Devil",
+    "drop": "Devil's element",
+    "boss_level": "Elite"
+  }
+}
