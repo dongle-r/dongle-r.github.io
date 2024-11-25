@@ -86,183 +86,6 @@
       ]
     },
     {
-      "relic_name": "Fairy's Flight",
-      "tier": 3,
-      "tier_title": "Tier 3",
-      "effects": [
-        {
-          "skill": "General",
-          "effect": "Players are given a fairy mushroom which allows teleporting to any fairy ring, spirit tree, or tool leprechaun."
-        },
-        {
-          "skill": "General",
-          "effect": "Unlocking this relic will autocomplete the Tree Gnome Village quest."
-        },
-        {
-          "skill": "General",
-          "effect": "Can only teleport to locations within regions the player has unlocked."
-        }
-      ]
-    },
-    {
-      "relic_name": "Bank Heist",
-      "tier": 3,
-      "tier_title": "Tier 3",
-      "effects": [
-        {
-          "skill": "General",
-          "effect": "Players are given a banker's briefcase allowing teleport to any deposit box, bank, or bank chest"
-        }
-      ]
-    },
-    {
-      "relic_name": "Clue Compass",
-      "tier": 3,
-      "tier_title": "Tier 3",
-      "effects": [
-        {
-          "skill": "General",
-          "effect": "Players are given a clue compass allowing teleport to any STASH unit, and to Falo the Bard"
-        },
-        {
-          "skill": "General",
-          "effect": "The compass can also teleport the player to their current clue step if they have one. It does not work on clue steps that require killing a certain NPC."
-        }
-      ]
-    },
-    {
-      "relic_name": "Total Recall",
-      "tier": 6,
-      "tier_title": "Tier 6",
-      "effects": [
-        {
-          "skill": "General",
-          "effect": "Players can store any single coordinate, alongside their hitpoints, prayer, and special attack energy"
-        },
-        {
-          "skill": "General",
-          "effect": "Players may teleport back to the coordinates at any later time, restoring their stats to the saved ones"
-        }
-      ]
-    },
-    {
-      "relic_name": "Banker's Note",
-      "tier": 6,
-      "tier_title": "Tier 6",
-      "effects": [
-        {
-          "skill": "General",
-          "effect": "Players are given a banker's note which allows players to use note-able items on it to turn them into banknotes or unnote them. Items must be used on the banker's note."
-        }
-      ]
-    },
-    {
-      "relic_name": "Grimoire",
-      "tier": 5,
-      "tier_title": "Tier 5",
-      "effects": [
-        {
-          "skill": "General",
-          "effect": "Arcane Grimoire - Freely swap between spellbooks"
-        },
-        {
-          "skill": "Magic",
-          "effect": "Arcane Grimoire - Acts as book of the dead"
-        },
-        {
-          "skill": "Magic",
-          "effect": "Access to all Prayers and spells, regardless of area, quest, or diary requirements"
-        }
-      ]
-    },
-    {
-      "relic_name": "Overgrown",
-      "tier": 5,
-      "tier_title": "Tier 5",
-      "effects": [
-        {
-          "skill": "General",
-          "effect": "Seed vault access from anywhere in the world"
-        },
-        {
-          "skill": "Farming",
-          "effect": "Crops never die"
-        },
-        {
-          "skill": "Farming",
-          "effect": "When planting a seed, it has a 75% chance to not be consumed."
-        },
-        {
-          "skill": "Farming",
-          "effect": "When a seed fully grows, if your Seed Vault has another seed of the same type it will harvest the patch for you, then replant the seed."
-        },
-        {
-          "skill": "Farming",
-          "effect": "Automatically replanted seeds have Ultracompost added, whether or not you have any available."
-        }
-      ]
-    },
-    {
-      "relic_name": "Tier 5 - Unknown",
-      "tier": 5,
-      "tier_title": "Tier 5",
-      "effects": [
-        {
-          "skill": "General",
-          "effect": "Unknown"
-        }
-      ]
-    },
-    {
-      "relic_name": "Golden God",
-      "tier": 4,
-      "tier_title": "Tier 4",
-      "effects": [
-        {
-          "skill": "Magic",
-          "effect": "High and Low Alchemy spells have no rune cost or level requirements"
-        },
-        {
-          "skill": "Magic",
-          "effect": "Alch'ed Items give 15% more gold and have a 65% chance to not be consumed"
-        },
-        {
-          "skill": "Magic",
-          "effect": "When Alchemy spells are cast on a stack of items, the spells will automatically be recast over time, until the stack is depleted or moved"
-        },
-        {
-          "skill": "Prayer",
-          "effect": "20,000 gold can be offered at Prayer altars in exchange for Prayer XP equivalent to using a dragon bone. This respects altar XP modifiers"
-        },
-        {
-          "skill": "General",
-          "effect": "All items purchased from some select shops can be noted, provided the items can be noted at all."
-        }
-      ]
-    },
-    {
-      "relic_name": "Reloaded",
-      "tier": 4,
-      "tier_title": "Tier 4",
-      "effects": [
-        {
-          "skill": "General",
-          "effect": "Pick a second skill below this tier"
-        }
-      ]
-    },
-    {
-      "relic_name": "Tier 4 - Unknown",
-      "tier": 4,
-      "tier_title": "Tier 4",
-      "effects": [
-        {
-          "skill": "General",
-          "effect": "Unknown"
-        }
-      ]
-    },
-    {
       "relic_name": "Friendly Forager",
       "tier": 2,
       "tier_title": "Tier 2",
@@ -344,9 +167,275 @@
       ]
     },
     {
-      "relic_name": "Last Stand",
+      "relic_name": "Fairy's Flight",
+      "tier": 3,
+      "tier_title": "Tier 3",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Players are given a fairy mushroom which allows teleporting to any fairy ring, spirit tree, or tool leprechaun."
+        },
+        {
+          "skill": "General",
+          "effect": "Unlocking this relic will autocomplete the Tree Gnome Village quest."
+        },
+        {
+          "skill": "General",
+          "effect": "Can only teleport to locations within regions the player has unlocked."
+        }
+      ]
+    },
+    {
+      "relic_name": "Bank Heist",
+      "tier": 3,
+      "tier_title": "Tier 3",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Players are given a banker's briefcase allowing teleport to any deposit box, bank, or bank chest"
+        }
+      ]
+    },
+    {
+      "relic_name": "Clue Compass",
+      "tier": 3,
+      "tier_title": "Tier 3",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Players are given a clue compass allowing teleport to any STASH unit, and to Falo the Bard"
+        },
+        {
+          "skill": "General",
+          "effect": "The compass can also teleport the player to their current clue step if they have one. It does not work on clue steps that require killing a certain NPC."
+        }
+      ]
+    },
+    {
+      "relic_name": "Golden God",
+      "tier": 4,
+      "tier_title": "Tier 4",
+      "effects": [
+        {
+          "skill": "Magic",
+          "effect": "High and Low Alchemy spells have no rune cost or level requirements"
+        },
+        {
+          "skill": "Magic",
+          "effect": "Alch'ed Items give 15% more gold and have a 65% chance to not be consumed"
+        },
+        {
+          "skill": "Magic",
+          "effect": "When Alchemy spells are cast on a stack of items, the spells will automatically be recast over time, until the stack is depleted or moved"
+        },
+        {
+          "skill": "Prayer",
+          "effect": "20,000 gold can be offered at Prayer altars in exchange for Prayer XP equivalent to using a dragon bone. This respects altar XP modifiers"
+        },
+        {
+          "skill": "General",
+          "effect": "All items purchased from some select shops can be noted, provided the items can be noted at all."
+        }
+      ]
+    },
+    {
+      "relic_name": "Reloaded",
+      "tier": 4,
+      "tier_title": "Tier 4",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Pick a second skill below this tier"
+        }
+      ]
+    },
+    {
+      "relic_name": "Equilibrium",
+      "tier": 4,
+      "tier_title": "Tier 4",
+      "effects": [
+        {
+          "skill": "All Skills",
+          "effect": "Each time the player gains experience, they will gain additional experience equal to 10% of the player's total level across all skills, in the skill trained. 20% if skill is lowest xp. XP granted is not increased by leagues xp multiplier."
+        }
+      ]
+    },
+    {
+      "relic_name": "Treasure Arbiter",
+      "tier": 5,
+      "tier_title": "Tier 5",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Impling Jars and Creatures that drop Clue Scrolls have a 1/15 chance of dropping them."
+        },
+        {
+          "skill": "General",
+          "effect": "Clue Geodes, Clue Nests and Clue Bottles are found 10x more often."
+        },
+        {
+          "skill": "General",
+          "effect": "All Clue Scrolls have the lowest number of steps possible for their tier."
+        },
+        {
+          "skill": "General",
+          "effect": "Every Clue Scroll casket will roll the max amount of rewards it can give"
+        },
+        {
+          "skill": "General",
+          "effect": "Emote, Falo & Charlie Clue steps no longer have item requirements."
+        }
+      ]
+    },
+    {
+      "relic_name": "Production Master",
+      "tier": 5,
+      "tier_title": "Tier 5",
+      "effects": [
+        {
+          "skill": "Smithing",
+          "effect": "Smelting ores, Smithing bars and making Cannonballs are all processed at once"
+        },
+        {
+          "skill": "Fletching",
+          "effect": "Fletching logs, stringing Bows, making arrow shafts and cutting bolt tips are all processed at once"
+        },
+        {
+          "skill": "Fletching",
+          "effect": "Making headless arrows, regular arrows, bolts and darts.  are all processed at once."
+        },
+        {
+          "skill": "Herblore",
+          "effect": "Cleaning herbs and making Potions which do not have a stackable secondary ingredient are all processed at once."
+        },
+        {
+          "skill": "Cooking",
+          "effect": "Cooking food, making pies or pizzas and making Jugs of Wine are all processed at once."
+        },
+        {
+          "skill": "Crafting",
+          "effect": "Crafting leather, uncut gems, glassblowing, jewellery, pottery, Battlestaves and spinning flax or wool are all processed at once."
+        }
+      ]
+    },
+    {
+      "relic_name": "Slayer Master",
+      "tier": 5,
+      "tier_title": "Tier 5",
+      "effects": [
+        {
+          "skill": "Slayer",
+          "effect": "Always on task for all eligible slayer monsters. Bosses inlcuded"
+        },
+        {
+          "skill": "Slayer",
+          "effect": "Unlock all slayer task perks for free."
+        },
+        {
+          "skill": "Slayer",
+          "effect": "Rune pouches, Herb sacks and Looting bags in the slayer point store are all free."
+        },
+        {
+          "skill": "Slayer",
+          "effect": "Skip and block tasks for free."
+        },
+        {
+          "skill": "Slayer",
+          "effect": "Gain 1000-15,000 bonus Slayer XP for the first time you kill the 100th of each unique slayer monster, scaled by the monster's slayer level requirement "
+        }
+      ]
+    },
+    {
+      "relic_name": "Total Recall",
+      "tier": 6,
+      "tier_title": "Tier 6",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Players can store any single coordinate, alongside their hitpoints, prayer, and special attack energy"
+        },
+        {
+          "skill": "General",
+          "effect": "Players may teleport back to the coordinates at any later time, restoring their stats to the saved ones"
+        }
+      ]
+    },
+    {
+      "relic_name": "Banker's Note",
+      "tier": 6,
+      "tier_title": "Tier 6",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Players are given a banker's note which allows players to use note-able items on it to turn them into banknotes or unnote them. Items must be used on the banker's note."
+        }
+      ]
+    },
+    {
+      "relic_name": "Grimoire",
       "tier": 7,
       "tier_title": "Tier 7",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Arcane Grimoire - Freely swap between spellbooks"
+        },
+        {
+          "skill": "Magic",
+          "effect": "Arcane Grimoire - Acts as book of the dead"
+        },
+        {
+          "skill": "Magic",
+          "effect": "Access to all Prayers and spells, regardless of area, quest, or diary requirements"
+        }
+      ]
+    },
+    {
+      "relic_name": "Overgrown",
+      "tier": 7,
+      "tier_title": "Tier 7",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Seed vault access from anywhere in the world"
+        },
+        {
+          "skill": "Farming",
+          "effect": "Crops never die"
+        },
+        {
+          "skill": "Farming",
+          "effect": "When planting a seed, it has a 75% chance to not be consumed."
+        },
+        {
+          "skill": "Farming",
+          "effect": "When a seed fully grows, if your Seed Vault has another seed of the same type it will harvest the patch for you, then replant the seed."
+        },
+        {
+          "skill": "Farming",
+          "effect": "Automatically replanted seeds have Ultracompost added, whether or not you have any available."
+        }
+      ]
+    },
+    {
+      "relic_name": "Pocket Kingdom",
+      "tier": 7,
+      "tier_title": "Tier 7",
+      "effects": [
+        {
+          "skill": "General",
+          "effect": "Pocket Kingdom - This item allows full access to the Managing Miscellania feature from anywhere."
+        },
+        {
+          "skill": "General",
+          "effect": "Manging Miscellania - Workers will work for 50% less coins, always have max appeal, produce twice as many resources, and accrue resources every hour instead of every day."
+        }
+      ]
+    },
+    {
+      "relic_name": "Last Stand",
+      "tier": 8,
+      "tier_title": "Tier 8",
       "effects": [
         {
           "skill": "Combat",
@@ -372,8 +461,8 @@
     },
     {
       "relic_name": "Guardian",
-      "tier": 7,
-      "tier_title": "Tier 7",
+      "tier": 8,
+      "tier_title": "Tier 8",
       "effects": [
         {
           "skill": "Combat",
@@ -395,8 +484,8 @@
     },
     {
       "relic_name": "Specialist",
-      "tier": 7,
-      "tier_title": "Tier 7",
+      "tier": 8,
+      "tier_title": "Tier 8",
       "effects": [
         {
           "skill": "Combat",
